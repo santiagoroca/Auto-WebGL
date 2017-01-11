@@ -1,0 +1,8 @@
+README.rst
+setup.py
+autowebgl.egg-info/PKG-INFO
+autowebgl.egg-info/SOURCES.txt
+autowebgl.egg-info/dependency_links.txt
+autowebgl.egg-info/entry_points.txt
+autowebgl.egg-info/requires.txt
+autowebgl.egg-info/top_level.txt

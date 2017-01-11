@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: autowebgl
+Version: 0.2.0
+Summary: Automation Tool for WebGL based Projects
+Home-page: https://github.com/santiiiii/autowebgl
+Author: Santiago Nicolas Roca
+Author-email: snroca@hotmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: webgl automation devop image comparison
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Testing
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
